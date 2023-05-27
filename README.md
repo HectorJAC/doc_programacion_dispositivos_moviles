@@ -72,4 +72,10 @@ Acciones (Actions): son objetos que describen algo que sucede en la aplicación,
 Dispatcher: es un objeto que recibe las acciones y las envía a los Stores correspondientes.  
 Stores: son objetos que contienen el estado de la aplicación y la lógica de negocio.  
 Vista (View): es la interfaz de usuario de la aplicación.  
-**Referencia**: https://es.linkedin.com/pulse/qu%C3%A9-es-el-patr%C3%B3n-de-dise%C3%B1o-flux-y-c%C3%B3mo-funciona-jorge-arias-arg%C3%BCelles#:~:text=El%20patr%C3%B3n%20de%20dise%C3%B1o%20Flux%20es%20un%20patr%C3%B3n%20de%20arquitectura,de%20la%20interfaz%20de%20usuario.
+**Referencia**: https://es.linkedin.com/pulse/qu%C3%A9-es-el-patr%C3%B3n-de-dise%C3%B1o-flux-y-c%C3%B3mo-funciona-jorge-arias-arg%C3%BCelles#:~:text=El%20patr%C3%B3n%20de%20dise%C3%B1o%20Flux%20es%20un%20patr%C3%B3n%20de%20arquitectura,de%20la%20interfaz%20de%20usuario.  
+
+# Patrones de Diseño
+
+**HOC**  
+El patrón de diseño Higher-Order Component (HOC) es un patrón avanzado en React que se utiliza para reutilizar la lógica de los componentes. Un HOC es una función que toma un componente y devuelve otro componente con funcionalidades adicionales o modificadas.  
+**Referencia**: https://jfbarrios.com/patron-de-diseno-higher-order-component-hoc-en-react-y-javascript
