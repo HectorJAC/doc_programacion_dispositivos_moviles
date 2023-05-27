@@ -48,4 +48,4 @@
 
 Hacer una breve descripcion de cada patron que aparece en la pagina:  
 https://refactoring.guru/es/design-patterns  
-En un word explicar lo que es el State
+En un word explicar lo que es el State.
