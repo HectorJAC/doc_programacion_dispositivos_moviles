@@ -21,3 +21,13 @@
 **Creador**: Nat Friedman y Miguel de Icaza  
 **Empresa encargada del mantemiento**: Microsoft  
 **Fecha de Creacion**: 2011
+
+# React Native
+
+**Descripcion**: React Native es un framework JavaScript para crear aplicaciones reales nativas para iOS y Android, basado en la librearía de JavaScript React para la creación de componentes visuales  
+**Lenguaje de Programacion Base**: JavaScript  
+**Pagina Oficial**: https://reactnative.dev/  
+**Repositorio**: https://github.com/facebook/react-native  
+**Creador**: Facebook  
+**Empresa encargada del mantemiento**: Facebook  
+**Fecha de Creacion**: 2015
