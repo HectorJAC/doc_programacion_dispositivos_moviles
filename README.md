@@ -64,3 +64,12 @@ Presentador. Este elemento es el puente entre la vista y el modelo. Gracias al p
 El patrón de arquitectura MVVM, también conocido como Model View ViewModel, se refiere a un modelo de diseño que tiene el objetivo para llevar a cabo la separación del apartado de la interfaz de usuario (View) de la parte lógica (Model). Esto lo hace con el objetivo de que el aspecto visual sea completamente independiente.  
 
 **Referencia**: https://keepcoding.io/blog/que-es-el-patron-de-arquitectura-mvvm/  
+
+**REDUX/FLUX**
+El patrón de diseño Flux es un patrón de arquitectura de software que se utiliza para construir aplicaciones web de una sola página (Single-Page Applications). Este patrón se enfoca en el manejo del flujo de datos a través de la aplicación, separando la lógica de negocio de la interfaz de usuario.
+El patrón Flux consta de cuatro elementos principales:
+Acciones (Actions): son objetos que describen algo que sucede en la aplicación, como la entrada del usuario o la respuesta del servidor.  
+Dispatcher: es un objeto que recibe las acciones y las envía a los Stores correspondientes.  
+Stores: son objetos que contienen el estado de la aplicación y la lógica de negocio.  
+Vista (View): es la interfaz de usuario de la aplicación.  
+**Referencia**: https://es.linkedin.com/pulse/qu%C3%A9-es-el-patr%C3%B3n-de-dise%C3%B1o-flux-y-c%C3%B3mo-funciona-jorge-arias-arg%C3%BCelles#:~:text=El%20patr%C3%B3n%20de%20dise%C3%B1o%20Flux%20es%20un%20patr%C3%B3n%20de%20arquitectura,de%20la%20interfaz%20de%20usuario.
