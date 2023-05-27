@@ -42,4 +42,8 @@
 **Empresa encargada del mantemiento**: Drifty Co  
 **Fecha de Creacion**: 2013
 
-# Clase 2: Patrones de Diseño y de Arquitectura 
+# Clase 2: Patrones de Diseño y de Arquitectura  
+
+# Patrones de Arquitectura
+
+**MVC**
