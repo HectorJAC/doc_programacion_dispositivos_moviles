@@ -12,3 +12,12 @@
 **Empresa encargada del mantemiento**: Google  
 **Fecha de Creacion**: 2018  
 
+# Xamarin
+
+**Descripcion**: Xamarin es una plataforma que permite desarrollar aplicaciones iOS y Android utilizando código C#, permitiendo compartir código entre plataformas hasta un 75% (usando Xamarin clásico) o hasta 100% (usando Xamarin.Forms).  
+**Lenguaje de Programacion Base**: C#  
+**Pagina Oficial**: https://visualstudio.microsoft.com/es/xamarin/  
+**Repositorio**: https://github.com/xamarin/Xamarin.Forms  
+**Creador**: Nat Friedman y Miguel de Icaza  
+**Empresa encargada del mantemiento**: Microsoft  
+**Fecha de Creacion**: 2011
