@@ -60,6 +60,7 @@ Presentador. Este elemento es el puente entre la vista y el modelo. Gracias al p
 
 **Referencia**: https://keepcoding.io/blog/que-es-el-modelo-vista-presentador/  
 
-**MVMM**
+**MVMM**  
+El patrón de arquitectura MVVM, también conocido como Model View ViewModel, se refiere a un modelo de diseño que tiene el objetivo para llevar a cabo la separación del apartado de la interfaz de usuario (View) de la parte lógica (Model). Esto lo hace con el objetivo de que el aspecto visual sea completamente independiente.  
 
 **Referencia**: https://keepcoding.io/blog/que-es-el-patron-de-arquitectura-mvvm/  
