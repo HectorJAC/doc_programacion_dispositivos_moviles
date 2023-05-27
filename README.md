@@ -47,3 +47,6 @@
 # Patrones de Arquitectura
 
 **MVC**
+El patrón o arquitectura MVC es una técnica para organizar proyectos de programación que se basa en tres capas: un modelo, una vista y un controlador.  
+En el patrón modelo vista controlador, el modelo se refiere a la sección de código que obtiene los datos que usamos en un proyecto. Por su parte, la vista es la sección de código que se encarga de determinar cómo se van a ver estos datos dentro de nuestro proyecto. Finalmente, el controlador es el encargado de intermediar entre el modelo y la vista. 
+**Referencia**: https://keepcoding.io/blog/ventajas-del-patron-mvc/#Que_es_el_patron_MVC
