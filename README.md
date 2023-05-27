@@ -44,6 +44,8 @@
 
 # Clase 2: Patrones de Diseño y de Arquitectura  
 
-# Patrones de Arquitectura
+# Patrones de Diseño
 
-**MVC**
+Hacer una breve descripcion de cada patron que aparece en la pagina:  
+https://refactoring.guru/es/design-patterns  
+En un word explicar lo que es el State.
