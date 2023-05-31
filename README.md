@@ -42,4 +42,79 @@
 **Empresa encargada del mantemiento**: Drifty Co  
 **Fecha de Creacion**: 2013
 
-# Clase 2: Patrones de Diseño y de Arquitectura 
+# Clase 2: Patrones de Diseño y de Arquitectura  
+
+# Patrones de Diseño
+
+# Patrones Creacionales  
+
+**Factory Method**  
+Es un patrón de diseño creacional que proporciona una interfaz para crear objetos en una superclase, mientras permite a las subclases alterar el tipo de objetos que se crearán.  
+
+**Abstract Factory**  
+Es un patrón de diseño creacional que nos permite producir familias de objetos relacionados sin especificar sus clases concretas.  
+
+**Builder**  
+Es un patrón de diseño creacional que nos permite construir objetos complejos paso a paso. El patrón nos permite producir distintos tipos y representaciones de un objeto empleando el mismo código de construcción.  
+
+**Prototype**  
+Es un patrón de diseño creacional que nos permite copiar objetos existentes sin que el código dependa de sus clases.  
+
+**Singleton**  
+Es un patrón de diseño creacional que nos permite asegurarnos de que una clase tenga una única instancia, a la vez que proporciona un punto de acceso global a dicha instancia.  
+
+# Patrones estructurales   
+
+**Adapter**  
+Es un patrón de diseño estructural que permite la colaboración entre objetos con interfaces incompatibles.  
+
+**Bridge**  
+Es un patrón de diseño estructural que te permite dividir una clase grande, o un grupo de clases estrechamente relacionadas, en dos jerarquías separadas (abstracción e implementación) que pueden desarrollarse independientemente la una de la otra.  
+
+**Composite**  
+Es un patrón de diseño estructural que te permite componer objetos en estructuras de árbol y trabajar con esas estructuras como si fueran objetos individuales.  
+
+**Decorator**  
+Es un patrón de diseño estructural que te permite añadir funcionalidades a objetos colocando estos objetos dentro de objetos encapsuladores especiales que contienen estas funcionalidades. 
+
+**Facade**  
+Es un patrón de diseño estructural que proporciona una interfaz simplificada a una biblioteca, un framework o cualquier otro grupo complejo de clases.  
+
+**Flyweight**  
+Es un patrón de diseño estructural que te permite mantener más objetos dentro de la cantidad disponible de RAM compartiendo las partes comunes del estado entre varios objetos en lugar de mantener toda la información en cada objeto.  
+
+**Proxy**  
+Es un patrón de diseño estructural que te permite proporcionar un sustituto o marcador de posición para otro objeto. Un proxy controla el acceso al objeto original, permitiéndote hacer algo antes o después de que la solicitud llegue al objeto original.  
+
+# Patrones de comportamiento  
+
+**Chain of Responsability**  
+Es un patrón de diseño de comportamiento que te permite pasar solicitudes a lo largo de una cadena de manejadores. Al recibir una solicitud, cada manejador decide si la procesa o si la pasa al siguiente manejador de la cadena.  
+
+**Command**  
+Es un patrón de diseño de comportamiento que convierte una solicitud en un objeto independiente que contiene toda la información sobre la solicitud. Esta transformación te permite parametrizar los métodos con diferentes solicitudes, retrasar o poner en cola la ejecución de una solicitud y soportar operaciones que no se pueden realizar.  
+
+**Iterator**  
+Es un patrón de diseño de comportamiento que te permite recorrer elementos de una colección sin exponer su representación subyacente (lista, pila, árbol, etc.).  
+
+**Mediator**  
+Es un patrón de diseño de comportamiento que te permite reducir las dependencias caóticas entre objetos. El patrón restringe las comunicaciones directas entre los objetos, forzándolos a colaborar únicamente a través de un objeto mediador.  
+
+**Memento**  
+Es un patrón de diseño de comportamiento que te permite guardar y restaurar el estado previo de un objeto sin revelar los detalles de su implementación.  
+
+**Observer**  
+Es un patrón de diseño de comportamiento que te permite definir un mecanismo de suscripción para notificar a varios objetos sobre cualquier evento que le suceda al objeto que están observando.  
+
+**State**  
+Es un patrón de diseño de comportamiento que permite a un objeto alterar su comportamiento cuando su estado interno cambia. Parece como si el objeto cambiara su clase.  
+
+**Strategy**  
+Es un patrón de diseño de comportamiento que te permite definir una familia de algoritmos, colocar cada uno de ellos en una clase separada y hacer sus objetos intercambiables.  
+
+**Template Method**  
+Es un patrón de diseño de comportamiento que define el esqueleto de un algoritmo en la superclase pero permite que las subclases sobrescriban pasos del algoritmo sin cambiar su estructura.  
+
+**Visitor**  
+Es un patrón de diseño de comportamiento que te permite separar algoritmos de los objetos sobre los que operan.
+
