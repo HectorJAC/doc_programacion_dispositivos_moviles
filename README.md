@@ -44,6 +44,41 @@
 
 # Clase 2: Patrones de Diseño y de Arquitectura  
 
+# Patrones de Arquitectura  
+
+**MVC**  
+El patrón o arquitectura MVC es una técnica para organizar proyectos de programación que se basa en tres capas: un modelo, una vista y un controlador.  
+En el patrón modelo vista controlador, el modelo se refiere a la sección de código que obtiene los datos que usamos en un proyecto. Por su parte, la vista es la sección de código que se encarga de determinar cómo se van a ver estos datos dentro de nuestro proyecto. Finalmente, el controlador es el encargado de intermediar entre el modelo y la vista. 
+**Referencia**: https://keepcoding.io/blog/ventajas-del-patron-mvc/#Que_es_el_patron_MVC  
+
+**MVP**  
+El Modelo-Vista-Presentador (MVP – model view presenter) es un formato de distribución para la puesta en práctica de la interfaz de usuario (UI) de una aplicación.
+Este de diseño consta, como indica su nombre, de 3 aspectos o componentes esenciales. Estos son:  
+Modelo. Es el componente del sistema del que depende el acceso a base de datos.  
+Vista. Hace referencia a la visualización del diseño de la interfaz.  
+Presentador. Este elemento es el puente entre la vista y el modelo. Gracias al presentador, se da la interacción entre petición y almacenamiento de información.  
+
+**Referencia**: https://keepcoding.io/blog/que-es-el-modelo-vista-presentador/  
+
+**MVVM**  
+El patrón de arquitectura MVVM, también conocido como Model View ViewModel, se refiere a un modelo de diseño que tiene el objetivo para llevar a cabo la separación del apartado de la interfaz de usuario (View) de la parte lógica (Model). Esto lo hace con el objetivo de que el aspecto visual sea completamente independiente.  
+
+**Referencia**: https://keepcoding.io/blog/que-es-el-patron-de-arquitectura-mvvm/  
+
+**REDUX/FLUX**  
+El patrón de diseño Flux es un patrón de arquitectura de software que se utiliza para construir aplicaciones web de una sola página (Single-Page Applications). Este patrón se enfoca en el manejo del flujo de datos a través de la aplicación, separando la lógica de negocio de la interfaz de usuario.
+El patrón Flux consta de cuatro elementos principales:
+Acciones (Actions): son objetos que describen algo que sucede en la aplicación, como la entrada del usuario o la respuesta del servidor.  
+Dispatcher: es un objeto que recibe las acciones y las envía a los Stores correspondientes.  
+Stores: son objetos que contienen el estado de la aplicación y la lógica de negocio.  
+Vista (View): es la interfaz de usuario de la aplicación.  
+
+**Referencia**: https://es.linkedin.com/pulse/qu%C3%A9-es-el-patr%C3%B3n-de-dise%C3%B1o-flux-y-c%C3%B3mo-funciona-jorge-arias-arg%C3%BCelles#:~:text=El%20patr%C3%B3n%20de%20dise%C3%B1o%20Flux%20es%20un%20patr%C3%B3n%20de%20arquitectura,de%20la%20interfaz%20de%20usuario.  
+
+**HOC**  
+El patrón de diseño Higher-Order Component (HOC) es un patrón avanzado en React que se utiliza para reutilizar la lógica de los componentes. Un HOC es una función que toma un componente y devuelve otro componente con funcionalidades adicionales o modificadas.  
+**Referencia**: https://jfbarrios.com/patron-de-diseno-higher-order-component-hoc-en-react-y-javascript  
+
 # Patrones de Diseño
 
 # Patrones Creacionales  
