@@ -162,7 +162,7 @@ Los Hooks son funcionalidades propias de React y son las mas utilizadas, reempla
 En pocas palabras un HOC es un patron de diseño utilziado en React, aunque ya casi no se usan, que consiste en una funcion que recibe un componente y devuelve otro componente.  
 
 **Redux**  
-Redux no es propio de React, es una libreria aparte que permite controlar el estado de las aplicaciones web. Pudiendo pasar propiedades enrte los componentes de la app usando una unica fuente de la verdad, llamado store, que es como una pequeña base de datos de la aplicacion.
+Redux no es propio de React, es una libreria aparte que permite controlar el estado de las aplicaciones web. Pudiendo pasar propiedades entre los componentes de la app usando una unica fuente de la verdad, llamado store, que es como una pequeña base de datos de la aplicacion.
 
 **Context en React**  
 El Context de React es una forma de crear variables las cuales se pueden compartir a todos los componentes de la aplicacion. Consiste en pasar propiedades de un componente padre a un componente hijo.
