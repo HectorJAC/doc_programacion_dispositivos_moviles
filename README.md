@@ -151,5 +151,18 @@ Es un patrón de diseño de comportamiento que te permite definir una familia de
 Es un patrón de diseño de comportamiento que define el esqueleto de un algoritmo en la superclase pero permite que las subclases sobrescriban pasos del algoritmo sin cambiar su estructura.  
 
 **Visitor**  
-Es un patrón de diseño de comportamiento que te permite separar algoritmos de los objetos sobre los que operan.
+Es un patrón de diseño de comportamiento que te permite separar algoritmos de los objetos sobre los que operan.  
 
+# Clase 3: Patrones de Diseño Hooks, HOC, Redux y Context en React  
+
+**Hooks**  
+Los Hooks son funcionalidades propias de React y son las mas utilizadas, reemplazando casi en sun totalidad a los HOC. Los Hooks no son mas que funciones de React o creadas por el programador que permiten manipular el estado y el ciclo de vida de React, y que son reutilizables.  
+
+**HOC**  
+En pocas palabras un HOC es un patron de diseño utilziado en React, aunque ya casi no se usan, que consiste en una funcion que recibe un componente y devuelve otro componente.  
+
+**Redux**  
+Redux no es propio de React, es una libreria aparte que permite controlar el estado de las aplicaciones web. Pudiendo pasar propiedades entre los componentes de la app usando una unica fuente de la verdad, llamado store, que es como una pequeña base de datos de la aplicacion.
+
+**Context en React**  
+El Context de React es una forma de crear variables las cuales se pueden compartir a todos los componentes de la aplicacion. Consiste en pasar propiedades de un componente padre a un componente hijo.
